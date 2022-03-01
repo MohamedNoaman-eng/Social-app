@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "287424331555",
+    "project_id": "sgnin-7dbe5",
+    "storage_bucket": "sgnin-7dbe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287424331555:android:cc4b1f253e7023c12ed696",
+        "android_client_info": {
+          "package_name": "www.tictac.tic_tac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287424331555-d431u2v5uo4fh08tpeplp4uo3br04ppc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.tictac.tic_tac",
+            "certificate_hash": "f8f25021305986e524d2bbbcb8c31a99cd36b40b"
+          }
+        },
+        {
+          "client_id": "287424331555-9e5ip6ndnhv1q279u91idh9fjau1ogdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB5dKfX2lgPYYY5qgXyT4C-cb0qAtaIlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287424331555-9e5ip6ndnhv1q279u91idh9fjau1ogdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
