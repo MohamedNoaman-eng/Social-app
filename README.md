@@ -1,4 +1,4 @@
-# tic_tac
+# flutter projects
 
 A new Flutter application.
 
